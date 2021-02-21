@@ -37,7 +37,7 @@ namespace Joachim_Johnson_ConsidAplication.Servises
             ICordinatesModells returCord = new CordinatesModells();
 
             string Apicall      = "https://maps.googleapis.com/maps/api/geocode/xml?key={1}&address={0}&sensor=false";
-            string Googlekey    = "AIzaSyByBPNpTW84-yUD3VJyUN7DOURDaheR-rs";
+            string Googlekey    = "Google_key";
 
             string requestUri   = string.Format(Apicall, Uri.EscapeDataString(fulladress), Googlekey);
 
