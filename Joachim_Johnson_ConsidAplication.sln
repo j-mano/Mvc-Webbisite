@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joachim_Johnson_ConsidAplication", "Joachim_Johnson_ConsidAplication\Joachim_Johnson_ConsidAplication.csproj", "{AAEE68D1-6E56-4F45-A0E0-6028F0D1A954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{FCA2D9B6-0AD1-4E4B-84B7-3A9B00F3CCFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEE68D1-6E56-4F45-A0E0-6028F0D1A954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEE68D1-6E56-4F45-A0E0-6028F0D1A954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEE68D1-6E56-4F45-A0E0-6028F0D1A954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEE68D1-6E56-4F45-A0E0-6028F0D1A954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA2D9B6-0AD1-4E4B-84B7-3A9B00F3CCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA2D9B6-0AD1-4E4B-84B7-3A9B00F3CCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA2D9B6-0AD1-4E4B-84B7-3A9B00F3CCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA2D9B6-0AD1-4E4B-84B7-3A9B00F3CCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C2A247-578A-4A92-B93E-9FDDADA31617}
+	EndGlobalSection
+EndGlobal
