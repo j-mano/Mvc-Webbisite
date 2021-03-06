@@ -1,9 +1,0 @@
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\bin\Debug\ConsidDatabase.dacpac
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\bin\Debug\ConsidDatabase.dll
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\bin\Debug\ConsidDatabase.pdb
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\obj\Debug\Model.xml
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\obj\Debug\refactor.xml
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\obj\Debug\postdeploy.sql
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\obj\Debug\predeploy.sql
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\obj\Debug\ConsidDatabase.dll
-c:\users\joachim\documents\visual studio 2015\Projects\Joachim_Johnson_ConsidAplication\ConsidDatabase\obj\Debug\ConsidDatabase.pdb

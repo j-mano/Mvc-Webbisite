@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joachim_Johnson_ConsidAplication", "Joachim_Johnson_ConsidAplication\Joachim_Johnson_ConsidAplication.csproj", "{AAEE68D1-6E56-4F45-A0E0-6028F0D1A954}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joachim_Johnson_Website", "Joachim_Johnson_ConsidAplication\Joachim_Johnson_Website.csproj", "{AAEE68D1-6E56-4F45-A0E0-6028F0D1A954}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{FCA2D9B6-0AD1-4E4B-84B7-3A9B00F3CCFD}"
 EndProject
